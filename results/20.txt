@@ -1,0 +1,18 @@
+Warming up...               done.
+Tunning test parameters...  done.
+Note: using GPU_WORK_ITERATIONS = 2190
+(based on tunning for this machine)
+
+Running v1...               done.
+Running v2...               
+elapsed to get map: 1.5277s
+done.
+
+Results
+===================
+v1: 18.8982s
+v2: 12.4649s
+speedup: 1.5161x
+
+Correctness: OK
+Speedup: OK
